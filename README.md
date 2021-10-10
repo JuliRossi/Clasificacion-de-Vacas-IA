@@ -8,5 +8,5 @@ Las razas elegidas para la clasificación fueron:
 - Montbeliade
 
 # Manual de Usuario
-Para utilizar este sistema inteligente, abra el archivo "v1_prototipo_RNA_MLP_tipo_vaca.ipynb". Una vez en el archivo presione el simbolo para abrir con Google Collaboratory.
+Para utilizar este sistema inteligente, abra el archivo "v1_prototipo_RNA_MLP_tipo_vaca.ipynb". Luego presione el simbolo para abrir con Google Collaboratory.
 Una vez abierto, siga las instrucciones de uso dentro del mismo.
